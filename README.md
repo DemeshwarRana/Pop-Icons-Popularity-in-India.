@@ -1,1 +1,1 @@
-![Dashboard Preview](Popicons_India.png)
+![Dashboard Preview](Popicons_india.png)
