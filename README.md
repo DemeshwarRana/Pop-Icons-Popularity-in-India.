@@ -1,1 +1,1 @@
-![Dashboard Preview](samsunganyls.png)
+![Dashboard Preview](Popicons_India.png)
